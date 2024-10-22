@@ -1,0 +1,11 @@
+salma_nama = input("Inputkan nama: ")
+salma_kelas = input("Inputkan_kelas: ")
+salma_nim = input("Inputkan NIM: ")
+salma_alamat = input("Inputkan alamat: ")
+salma_umur = input("Inputkan umur: ")
+salma_nohp = input("Inputkan nomor HP: ")
+salma_tinggi = int(input("Inputkan tinggi badan (dalam cm): "))
+
+print(salma_nama, "dari kelas", salma_kelas, "dengan NIM", salma_nim)
+print("Beralamat di", salma_alamat, "berumur", salma_umur, "tahun dan tinggi badan", salma_tinggi, "cm")
+print("Nomor HP:", salma_nohp)
